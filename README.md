@@ -17,8 +17,7 @@
   - Micropython is used on ESP32
   - The comunication protocol between the IMU and ESP32 is I2C.
   - The LEDs are controlled using a PWM signal outputted by the GPIO pins of the ESP32. 
-  - MQTT is used to communicate over the
-
+  - MQTT is used to communicate over the internet and send the email.
   
     
    
